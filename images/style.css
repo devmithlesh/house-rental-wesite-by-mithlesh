@@ -3,7 +3,6 @@
     background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(/images/banner.png);
     background-position: center;
     background-size: cover;
-    height: 100vh;
 }
 
 .border-bm::after{
@@ -43,7 +42,7 @@
 .image-sharing{
     background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(/images/banner-2.png);
     width: 93%;
-    height: 65vh;
+    padding: 40px 0;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
