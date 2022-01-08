@@ -1,0 +1,17 @@
+.border-bm:after{
+content: '';
+width: 20px;
+height: 2px;
+background-color: red;
+display: block;
+margin:auto;
+margin-top: 2px;
+}
+.box-shadow-line{
+    box-shadow: 0px 6px 4px -6px #888888;
+}
+.horizontal-rule{
+    height: 1px;
+    width:100%;
+    background-color: rgba(0,0,0,0.3);
+}
